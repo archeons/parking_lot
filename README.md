@@ -1,4 +1,4 @@
-# gojek_parking_lot
+# Parking Lot Application
 
 This application fully controlled by command. Run PHP parking_lot in bin directory with 2 options:
 $ bin/parking_lot
